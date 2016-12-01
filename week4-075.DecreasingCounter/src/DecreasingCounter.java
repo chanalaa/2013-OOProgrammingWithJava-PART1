@@ -20,6 +20,7 @@ public class DecreasingCounter {
         }
     }
     
+    //Test 2 for upload 
     public void reset() {
         this.value = 0;
     }
