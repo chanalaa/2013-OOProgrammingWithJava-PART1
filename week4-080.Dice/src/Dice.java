@@ -9,7 +9,7 @@ public class Dice {
         this.numberOfSides = numberOfSides;
         random = new Random();
     }
-
+    //comment added for git testing 
     public int roll() {
         // create here a random number belonging to range 1-numberOfSided
         int number = random.nextInt(numberOfSides);
